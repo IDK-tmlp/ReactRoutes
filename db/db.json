@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "vtt",
+      "validated": true
+    },
+    {
+      "id": 2,
+      "name": "casque",
+      "validated": true
+    },
+    {
+      "id": 3,
+      "name": "gants",
+      "validated": true
+    },
+    {
+      "name": "gants",
+      "id": 4,
+      "validated": true
+    },
+    {
+      "name": "sac",
+      "id": 5,
+      "validated": false
+    }
+  ]
+}
